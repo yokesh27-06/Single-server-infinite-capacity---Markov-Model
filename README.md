@@ -29,10 +29,12 @@ Developed by:YOKESH H
 Register no:24005930
 ```
 ```py
-
+```
 
 ## Output :
-![image](https://github.com/user-attachments/assets/e71c3f3a-35be-4d69-a1f0-3a3402f812ed)
+![image](https://github.com/user-attachments/assets/f62ca114-e6cd-4cfe-80d2-0db7975d0a07)
+
+
 
 ## Result :
 The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
